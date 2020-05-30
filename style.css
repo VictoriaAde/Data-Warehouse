@@ -337,10 +337,9 @@ li {
 }
 
 .icon-so .fa {
-    font-size: 3px;
+    font-size: 1.4em;
     border-radius: 100px;
     background: #d3d3d3;
-    padding: 13px;
     opacity: 0.6;
     margin-left: 5px;
 }
