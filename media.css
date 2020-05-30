@@ -125,7 +125,7 @@
     .feature-1 .left h1 {
         font-size: 2.5em;
         font-weight: bold;
-        opacity: 0.9;
+        opacity: 0.8;
     }
 
     .feature-1 .left p {
@@ -287,6 +287,13 @@
         font-size: 14px;
 
     }
+    .nav-center{
+        margin: 0 117px 0 150px;
+    } 
+    .nav-list{
+        margin-right: 240px;
+    }
+    
 
     /********** section a *************/
     #section-a .feature-1 {
@@ -299,6 +306,7 @@
         font-size: 3.6rem;
         padding: 30px 0 0 0;
         margin-right: -87px;
+        opacity: 0.8;
     }
 
     .feature-1 .left p {
