@@ -56,8 +56,8 @@
 
 
 
-/********* min-width: 375px >*************/
-@media (min-width: 375px) {
+/********* min-width: 360px >*************/
+@media (min-width: 360px) {
 
     /******* section c *********/
     #section-c .features {
@@ -66,7 +66,7 @@
 
     /******* section d *********/
     .con .item {
-        margin: 40px -20px 20px 37px;
+        margin: 0 auto;
     }
 
 }
