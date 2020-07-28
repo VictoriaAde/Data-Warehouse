@@ -13,7 +13,7 @@
         top: 5rem;
         right: 0;
         background: #333;
-        transform: translateX(100%);
+        transform: translateX(-150%);
         transition: 500ms;
     }
 
@@ -285,11 +285,11 @@
     }
 
     #navbar li a {
-        font-size: 14px;
+        font-size: 19px;
 
     }
     .nav-center{
-        margin: 0 117px 0 150px;
+        margin: 0 1rem -2rem 5rem;
     } 
     .nav-list{
         margin-right: 240px;
@@ -352,7 +352,8 @@
     }
 
     .feature-2 .right p {
-        font-size: .9em;
+        font-size: 18px;
+        color: #00003f;
     }
 
     /********** section c *************/
@@ -407,7 +408,7 @@
 
     .con .item {
         width: 600px;
-        height: 230px;
+        height: 250px;
         margin: 0 auto;
     }
 
