@@ -252,7 +252,7 @@ li {
 }
 
 .con .item {
-	margin: 40px -20px 20px 10px;
+	margin: 40px -20px 20px 32px;
 	padding: 40px 20px 0 20px;
 	width: 230px;
 	height: 300px;
@@ -294,11 +294,11 @@ li {
 	background: #fff;
 	border-radius: 20px;
 	text-align: center;
-	box-shadow: 3px 5px #dcdcdc;
-	transition: background-color 300ms;
+	box-shadow: 3px 4px #dcdcdc;
+	/* transition: background-color 300ms; */
 }
 .top-sec .right .demo:hover {
-	background: whitesmoke;
+	background: #e2b9ce46;
 	color: #00003f;
 }
 
@@ -308,12 +308,11 @@ li {
 	background: #ff69b4;
 	border-radius: 15px;
 	padding: 10px 20px;
-	transition: background-color 1s;
+	/* transition: background-color 1s; */
 }
 
 .top-sec .learn:hover {
-	background: #fff;
-	color: #00003f;
+	background: #e02c86ec;
 }
 
 .data {
